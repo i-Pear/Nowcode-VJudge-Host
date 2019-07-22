@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualBoard", "VirtualBoard\VirtualBoard.csproj", "{07F108D5-F47E-45A9-BE9E-076938CAECAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F108D5-F47E-45A9-BE9E-076938CAECAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F108D5-F47E-45A9-BE9E-076938CAECAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F108D5-F47E-45A9-BE9E-076938CAECAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F108D5-F47E-45A9-BE9E-076938CAECAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E088E0F4-0F78-4F84-B03C-89E89B6477AA}
+	EndGlobalSection
+EndGlobal
